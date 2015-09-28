@@ -1,5 +1,5 @@
 {
-  "name": "funktube",
+  "name": "jquery.funktube",
   "version": "1.0.0",
   "main": [ "./jquery.funktube.js","./assets/jquery.funktube.css" ],
   "ignore":
